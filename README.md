@@ -1,3 +1,5 @@
+Updated by Siddhesh bagwe
+
 # Scientific Programming Concepts PH502/ACM40660 Autumn 2022
 
 Fork this repository into your github account. From there; 
